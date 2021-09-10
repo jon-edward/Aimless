@@ -1,5 +1,3 @@
-# Aimless
-
 ## Purpose
 Aimless hopes to allow its users to read about topics they normally wouldn't normally be drawn to, expanding on the `Special:Random` functionality by adding cohesion between pages.
 
