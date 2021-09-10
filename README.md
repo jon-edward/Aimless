@@ -8,3 +8,5 @@ Aimless groups together articles of the same category, and traverses through the
 
 ## How does it use Wikipedia?
 Aimless comes with a simplified form of the Category Tree, so it will only access `Special:RandomInCategory`.
+
+[Contact](mailto:aimless0browser@gmail.com)
