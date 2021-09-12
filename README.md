@@ -4,7 +4,4 @@ Aimless hopes to allow its users to read about topics they normally wouldn't nor
 ## How does it work?
 Aimless groups together articles of the same category, and traverses through the Wikipedia category graph randomly in regular intervals.
 
-## How does it use Wikipedia?
-Aimless comes with a simplified form of the Category Tree, so it will only access `Special:RandomInCategory`.
-
 [Contact](mailto:aimless0browser@gmail.com)
